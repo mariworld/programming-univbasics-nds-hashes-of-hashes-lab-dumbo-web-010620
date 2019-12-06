@@ -31,15 +31,14 @@
 
 def naming_system
   bio = {
-  label: "Kingdom",
-  sub_category: {
-    label: "Phylum",
-    sub_category: {
-      label: "Class"
+  :label => "Kingdom",
+  :sub_category => {
+    :label => "Phylum",
+    :sub_category => {
+      :label => "Class"
     }
   }
 }
-  }
 
   
   #  Kingdom
