@@ -30,7 +30,9 @@ PORTION_1 = {
 # }
 
 def naming_system
-  bio = {}
+  bio = {
+    PORTION_1
+  }
 
   
   #  Kingdom
