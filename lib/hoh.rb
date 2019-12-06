@@ -30,13 +30,7 @@
 # }
 
 def naming_system
-  bio = {:Kingdom => 
-          {:Phylum => 
-            {:Class => "order"
-                
-            }
-        }
-  }
+  bio = {}
 
   
   #  Kingdom
